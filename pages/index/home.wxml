@@ -1,0 +1,7 @@
+<view class="container">
+  <input maxlength='6' confirm-type='done' password='true'
+    placeholder='输入密码' type='number'>hello {{password}}</input>
+
+  <button bindtap='openFunc'>开锁</button>
+
+</view>
